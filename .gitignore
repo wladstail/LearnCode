@@ -1,0 +1,8 @@
+{\rtf1}
+.VS
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
